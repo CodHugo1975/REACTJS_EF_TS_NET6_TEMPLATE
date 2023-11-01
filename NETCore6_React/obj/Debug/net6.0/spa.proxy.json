@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44459",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "F:\\Ready to use\\GITHUB\\ENG\\REACTJS_EF_TS_NET6_TEMPLATE\\NETCore6_React\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
